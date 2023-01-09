@@ -7,6 +7,7 @@
     "dev": "node index.js"
   },
   "dependencies": {
+    "ethers": "^5.7.2",
     "express": "^4.18.2"
   }
 }
